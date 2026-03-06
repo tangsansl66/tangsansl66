@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,33:E5FF00,66:FF00E5,100:00FFE5&height=180&section=header&text=Welcome%20to%20tangsansl66%27s%20Cyber%20City%20%F0%9F%8F%99%EF%B8%8F&fontSize=48&fontAlignY=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,33:E5FF00,66:FF00E5,100:00FFE5&height=180&section=header&text=%20%20tangsansl66%27s%20Cyber%20City%20%F0%9F%8F%99%EF%B8%8F&fontSize=48&fontAlignY=50&fontColor=ffffff" width="100%" />
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00E5FF&center=true&width=600&lines=Script.+Scale.+Succeed." alt="Typing Animation" />
 <br/><br/>
